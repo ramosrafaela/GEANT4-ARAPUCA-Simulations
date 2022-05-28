@@ -2,7 +2,9 @@
 
 ![Badge concluded](http://img.shields.io/static/v1?label=STATUS&message=CONCLUDED&color=GREEN&style=for-the-badge)
 
-This is a project that I developed during my undergraduating research in the Leptons Laboratory at UNICAMP. This simulation aims to simulate the apparatus used in the real experiment performed in the laboratory, the radioactive source used and quantify how many photons arrive in the acceptance window of the X-ARAPUCA light detector.
+This is a project that I developed during my undergraduating research in the Leptons Laboratory at UNICAMP. This simulation aims to simulate the apparatus used in the real experiment performed in the laboratory, the radioactive source used and quantify how many photons arrive in the acceptance window of the X-ARAPUCA light detector. With this information it is possible to combine with experimental data and obtains the total efficiency of the device.
+
+The experiment in question consisted of a support for an alpha radiation source and for the X-ARAPUCA device. The holder and detector were then placed in a cryostat where it was filled with liquid argon (LAr) as the active volume. When alpha particles are emitted, they, in contact with argon, produce a scintillation process, which in short, is a process of excitation and ionization of argon molecules that results in the production of photons, that is, light. These photons are emitted isotropically, therefore, the interest of the work is to verify how many of these photons reach the acceptance window of the device.
 
 Three types of simulations were performed, with different ionizing particles: alpha particles, gamma particles and atmospheric muons.
 
