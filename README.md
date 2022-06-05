@@ -1,4 +1,9 @@
-![alt text](https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/muon_2_1.png)
+
+<br>
+<p align="center">
+  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/muon_2_1.png" />
+</p>
+
 
 <h1 align="center"> GEANT4 Simulatios for X-ARAPUCA test device </h1>
 
