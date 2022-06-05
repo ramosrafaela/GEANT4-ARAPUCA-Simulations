@@ -1,3 +1,5 @@
+![alt text](https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/muon_2_1.png)
+
 <h1 align="center"> GEANT4 Simulatios for X-ARAPUCA test device </h1>
 
 ![Badge concluded](http://img.shields.io/static/v1?label=STATUS&message=CONCLUDED&color=GREEN&style=for-the-badge)
