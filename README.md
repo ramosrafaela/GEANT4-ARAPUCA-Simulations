@@ -20,8 +20,25 @@ The main result of the simulation consists of a histogram of the number of photo
 To acess the codes you will need to perform the following path: 
 
 - GEANT4-ARAPUCA-Simulations/Alpha_Particle/B1/src/
+
+<br>
+<p align="center">
+  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/simulacao_com_exp_smearing.pdf" />
+</p>
+
 - GEANT4-ARAPUCA-Simulations/Atmospheric_Muon/B1/src/
+
+<br>
+<p align="center">
+  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/detPhotons_log.pdf" />
+</p>
+
 - GEANT4-ARAPUCA-Simulations/Gamma_Particle/B1/src
+
+<br>
+<p align="center">
+  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/gamma_5M_log.pdf" />
+</p>
 
 
 in src (source) you will find six different codes, where each one has a different task within the simulation:
