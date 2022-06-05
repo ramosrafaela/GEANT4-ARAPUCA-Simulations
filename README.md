@@ -23,21 +23,21 @@ To acess the codes you will need to perform the following path:
 
 <br>
 <p align="center">
-  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/fit_alpha.png" width="150" />
+  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/fit_alpha.png" width="1000" />
 </p>
 
 - GEANT4-ARAPUCA-Simulations/Atmospheric_Muon/B1/src/
 
 <br>
 <p align="center">
-  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/detPhotons_log.png" width="150" />
+  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/detPhotons_log.png" width="1000" />
 </p>
 
 - GEANT4-ARAPUCA-Simulations/Gamma_Particle/B1/src
 
 <br>
 <p align="center">
-  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/gamma_5M_log.png" width="150" />
+  <img src="https://github.com/ramosrafaela/GEANT4-ARAPUCA-Simulations/blob/main/figures/gamma_5M_log.png" width="1000" />
 </p>
 
 
